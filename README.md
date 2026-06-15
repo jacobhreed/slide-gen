@@ -1,2 +1,2 @@
-# md-slide-generator
-Generate full slideshows from markdown files.
+# slide-gen
+Generate full slideshows using AI.
